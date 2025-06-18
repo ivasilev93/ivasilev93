@@ -4,7 +4,7 @@ Currently focused on building protocols on Solana using Anchor. Below are my fea
 
 **Escrow contract**<br/>
 A basic deposit/withdraw logic for an Airbnb-style apps. Fully tested and deployed to devnet.
-<br/>Live Demo - https://testrental-escrow.xyz/
+<br/> [Repo](https://github.com/ivasilev93/rentals-escrow-app) | Live Demo - https://testrental-escrow.xyz/
 
 **Options trading DEX**<br/>
 A decentralized options trading platform on Solana.
@@ -21,7 +21,7 @@ Key features:
 * Dev tooling scripts for market creation/closure
 
 Repos:
-[Protocol](https://github.com/ivasilev93/options-program) | [Backend](https://lnkd.in/eq4qFtHn) | [Frontend](https://lnkd.in/evx2rVem)
+[Protocol](https://github.com/ivasilev93/options-program) | [Backend](https://github.com/ivasilev93/options-off-chain-service) | [Frontend](https://github.com/ivasilev93/options-program-front-end)
 </br>
 
 #### Work experience ####
@@ -33,7 +33,7 @@ Key contributions:
 * Push adoption of text indexing solution by spinning up demo with Lucene .NET -> adoption of Azure Search 
 * Build and maintain SMS notification integration
 
-[**Icard**](https://icard.com/) - Nov 2020 - Sep 2022
+[**iCard**](https://icard.com/) - Nov 2020 - Sep 2022
 Worked with a very small team on a payments processing web app. I can summarize my contribution with the following achievements:
 * Refactor and decouple common functionality, making addition of new features faster
 * Integration to other company systems/products as:
