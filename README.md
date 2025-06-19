@@ -34,8 +34,8 @@ Key contributions:
 * Build and maintain SMS notification integration
 
 [**iCard**](https://icard.com/) (Backend engineer) - Nov 2020 - Sep 2022
-Tech stack - **.NET Core, MS SQL, MySQL, Vue, ApacheMQ**<br/>
-Worked with a very small team on a payments processing web app. I can summarize my contribution with the following achievements:
+Worked with a very small team on a payments processing app built with - **.NET Core, MS SQL, MySQL, Vue, ApacheMQ**.<br/>
+I can summarize my contribution with the following achievements:
 * Refactor and decouple common functionality, making addition of new features faster
 * Integration to other company systems/products as:
   - Utility payments
