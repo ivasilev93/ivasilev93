@@ -26,7 +26,7 @@ Repos:
 
 #### Work experience ####
 [**Auxionize**](https://auxionize.com/en/) (Software engineer) - Setp 2022 - Mar 2025 </br>
-Reverse auction platform built with .NET 7, MSSQL, Azure Table Storage (NoSQL), Angular, Azure services.
+Reverse auction platform built with **.NET 7, MSSQL, Azure Table Storage (NoSQL), Angular, Azure services**.
 Key contributions:
 * Optimize complex db queries and significantly reduce page load times
 * Explore possible platform improvements w AI - semantic search with vector db and product suggestions
@@ -34,6 +34,7 @@ Key contributions:
 * Build and maintain SMS notification integration
 
 [**iCard**](https://icard.com/) (Backend engineer) - Nov 2020 - Sep 2022
+Tech stack - **.NET Core, MS SQL, MySQL, Vue, ApacheMQ**
 Worked with a very small team on a payments processing web app. I can summarize my contribution with the following achievements:
 * Refactor and decouple common functionality, making addition of new features faster
 * Integration to other company systems/products as:
