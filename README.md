@@ -6,7 +6,7 @@ Currently focused on building protocols on Solana using Anchor. Below are my fea
 A basic deposit/withdraw logic for an Airbnb-style apps. Fully tested and deployed to devnet.
 <br/> [Repo](https://github.com/ivasilev93/rentals-escrow-app) | Live Demo - https://testrental-escrow.xyz/
 
-**Options trading DEX** - [Video](https://www.youtube.com/watch?v=0jfJCyJNBUU)  <br/>
+**Options trading DEX** - [Video](https://www.youtube.com/watch?v=wYOmec4v9P0)  <br/>
 A decentralized options trading platform on Solana.
 Key features:
  * Admin can open/close markets for different tokens
